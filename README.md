@@ -1,10 +1,10 @@
-👋 Hi, I’m @yoni-shewa
-   A CS student operating in python, and
-web development with a good UI/UX understanding and
-software development practices. let's connect to
+👋 Hi, I’m @yoni-shewa <br>
+      A CS student operating in python, and <br>
+web development with a good UI/UX understanding and <br>
+software development practices. let's connect to <br>
 do fun projects ✨
 
-![Primary Language](https://img.shields.io/github/languages/top/username/repository)
+![Primary Language](https://img.shields.io/github/languages/top/yoni-shewas/repository)
 
 ## Technologies Used
 
