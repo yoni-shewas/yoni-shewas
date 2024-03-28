@@ -4,7 +4,7 @@ web development with a good UI/UX understanding and <br>
 software development practices. let's connect to <br>
 do fun projects ✨
 
-![Primary Language](https://img.shields.io/github/languages/top/yoni-shewas/yoni-shewas)
+
 
 ## Technologies Used
 
