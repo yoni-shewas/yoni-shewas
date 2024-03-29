@@ -1,8 +1,7 @@
 👋 Hi, I’m @yoni-shewa <br>
-      A CS student operating in python, and <br>
-web development with a good UI/UX understanding and <br>
-software development practices. let's connect to <br>
-do fun projects ✨
+A CS student operating in python, and web development<br> 
+with a good UI/UX understanding and software development practices.<br>
+let's connect to do fun projects ✨
 
 
 
