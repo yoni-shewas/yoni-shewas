@@ -20,7 +20,7 @@ let's connect to do fun projects ✨
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** Python, Django, Node.js, Express.js
-- **Database:** SQLite, MongoDB
+- **Database:** PostgreSQL,SQLite, MongoDB
 - **Version Control:** Git, GitHub
 - **Testing:** pytest
 
