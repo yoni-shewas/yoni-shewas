@@ -25,8 +25,8 @@ let's connect to do fun projects ✨
 - **Testing:** pytest
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas&layout=compact)
-<!---
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas&layout=compact)
+
 yoni-shewas/yoni-shewas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
