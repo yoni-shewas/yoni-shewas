@@ -8,7 +8,7 @@
 
 <div >
 
-👋 Hi, I’m @yoni-shewa <br>
+👋 Hi, I’m @yoni-shewamoltot <br>
 A CS student operating in python, and web development<br> 
 with a good UI/UX understanding and software development practices.<br>
 let's connect to do fun projects ✨
