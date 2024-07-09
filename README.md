@@ -8,10 +8,9 @@
 
 <div >
 
-👋 Hi, I’m @yoni-shewamoltot <br>
-A CS student operating in python, and web development<br> 
-with a good UI/UX understanding and software development practices.<br>
-let's connect to do fun projects ✨
+👋 Hi, I’m @yoni-shewamoltot, a CS student specializing in Python and web development. 
+I have a strong grasp of UI/UX design and software development practices.
+Let's connect and collaborate on exciting projects! ✨
 
 </div>
 
@@ -25,8 +24,8 @@ let's connect to do fun projects ✨
 - **Testing:** pytest
 
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas&layout=compact)
 
-yoni-shewas/yoni-shewas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- ! yoni-shewas/yoni-shewas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
