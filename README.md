@@ -23,7 +23,7 @@ Let's connect and collaborate on exciting projects! ✨
 - **Version Control:** Git, GitHub
 - **Testing:** pytest
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas?cache_seconds=1800&layout=compact&hide=html&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoni-shewas&layout=compact&hide=html,css&langs_count=10)
 
 
 <!--- ! yoni-shewas/yoni-shewas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
